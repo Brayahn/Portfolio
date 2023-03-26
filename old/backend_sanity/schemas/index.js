@@ -10,7 +10,7 @@ import contact from './contact'
 export const schemaTypes = [
   testimonials,
   works,
-  brands,
+  // brands,
   abouts,
   skills,
   workExperience,
