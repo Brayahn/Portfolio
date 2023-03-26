@@ -1,0 +1,14 @@
+#Create a new project
+npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
+
+#run sanity
+npm run dev
+
+#start sanity
+npm run dev
+
+sanity docs - to open the documentation in a browser
+sanity manage - to open the project settings in a browser
+sanity help - to explore the CLI manual
+
+
